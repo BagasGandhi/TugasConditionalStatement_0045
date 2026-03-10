@@ -22,5 +22,11 @@ int main(){
 
     cout<<"--- Selamat Datang Mahasiswa Kelas A 2025 ---"<<endl;
 
+    cout<<"Masukkan berat badan (kg): ";
+    cin>>bb;
+
+    cout<<"Masukkan tinggi badan (meter): ";
+    cin>>tb;
+
     return 0;
 }
