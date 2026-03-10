@@ -28,8 +28,10 @@ int main(){
     cout<<"Masukkan tinggi badan (meter): ";
     cin>>tb;
 
-    hasil = bmi(bb,tb);
+    float hasil = bmi(bb,tb);
 
+    cout<<endl;
+    cout<<"--- Hasil ---"<<endl;
     cout<<"BMI Anda : "<<hasil<<endl;
     cout<<"Status : "<<kondisi(hasil)<<endl;
 
