@@ -31,6 +31,7 @@ int main(){
     hasil = bmi(bb,tb);
 
     cout<<"BMI Anda : "<<hasil<<endl;
+    cout<<"Status : "<<kondisi(hasil)<<endl;
 
     return 0;
 }
