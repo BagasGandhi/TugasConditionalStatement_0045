@@ -28,5 +28,9 @@ int main(){
     cout<<"Masukkan tinggi badan (meter): ";
     cin>>tb;
 
+    hasil = bmi(bb,tb);
+
+    cout<<"BMI Anda : "<<hasil<<endl;
+
     return 0;
 }
