@@ -18,6 +18,8 @@ string kondisi(float nilai){
 
 int main(){
 
+    float bb, tb;
+
     cout<<"--- Selamat Datang Mahasiswa Kelas A 2025 ---"<<endl;
 
     return 0;
