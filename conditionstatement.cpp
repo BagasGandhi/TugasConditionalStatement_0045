@@ -15,3 +15,10 @@ string kondisi(float nilai){
     else
         return "Obesitas";
 }
+
+int main(){
+
+    cout<<"--- Selamat Datang Mahasiswa Kelas A 2025 ---"<<endl;
+
+    return 0;
+}
